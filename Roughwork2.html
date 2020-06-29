@@ -5,7 +5,7 @@
 
 
     <title>Dry run at coding css</title>
-    <link rel = "stylesheet" href="Assignment1_style.css" >
+    <link rel = "stylesheet" href="assignment1_style.css" >
 
   </head>
 
